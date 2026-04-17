@@ -25,19 +25,19 @@
 
 ### Backend / Tools
 <a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin-bottom: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" hspace="8""/>
 </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" hspace="8""/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" hspace="8""/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" hspace="8""/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" hspace="8""/>
 </a>
 
 </td>
