@@ -25,7 +25,7 @@
 
 ### Backend / Tools
 <a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;"/>
 </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" style="margin: 5px;"/>
